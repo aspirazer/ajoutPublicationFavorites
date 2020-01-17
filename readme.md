@@ -16,7 +16,7 @@ Lors du déclik l'icon favori disparait et  l'article est enlevé de la session.
 
 > Ajout de notre GIF [![LES FAVORIS ](https://media.giphy.com/media/GHcm2aWIczatG/giphy.gif)]()
 
-** table des matiere **
+** table des matieres **
 
 -[Explication](#explication)
 -[Remerciements](#remerciements)
