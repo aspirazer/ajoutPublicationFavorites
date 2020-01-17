@@ -11,8 +11,7 @@ function checkFavorite($id)
 {
     return in_array($id,$_SESSION["favorites"]);
 
-}
-
+}// ceci est un nouveau commentaire
 
 ?>
 
