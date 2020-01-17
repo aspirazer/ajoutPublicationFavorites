@@ -1,5 +1,5 @@
 body {
-    animation: 50000ms ease-in-out infinite color-change;
+    animation: 40000ms ease-in-out infinite color-change;
   }
   
   @keyframes color-change {
